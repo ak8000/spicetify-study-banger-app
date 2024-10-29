@@ -1,7 +1,7 @@
 
 # Spicetify Creator
 
-This is part of my team project for an Open Source class at NYU. We worked on a Spicetify project creating a custom application and a theme. Your can find this app and the theme (Starry Night) on Spicetify marketplace. Spicetify Creator is a tool to compile modern Typescript/Javascript code to Spicetify extensions and custom apps.
+This is part of my team project for an Open Source class at NYU. We worked on a Spicetify project creating a custom application and a theme. You can find this app and the theme (Starry Night) on Spicetify marketplace. Spicetify Creator is a tool to compile modern Typescript/Javascript code to Spicetify extensions and custom apps.
 
 ## Features
 - Typescript and React syntax
